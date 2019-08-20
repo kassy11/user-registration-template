@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 概要
 
-Things you may want to cover:
+ユーザ登録が必要となるサービスのテンプレート
 
-* Ruby version
+# 機能
 
-* System dependencies
+* ユーザ新規登録
 
-* Configuration
+* ログイン・ログアウト処理
 
-* Database creation
+* ユーザ情報編集
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 上記処理後のリダイレクト
